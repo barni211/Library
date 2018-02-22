@@ -12,9 +12,10 @@ using System;
 namespace LibraryData.Migrations
 {
     [DbContext(typeof(LibraryContext))]
-    partial class LibraryContextModelSnapshot : ModelSnapshot
+    [Migration("20180222220704_Swap property value from int to string (address)")]
+    partial class Swappropertyvaluefrominttostringaddress
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -188,11 +189,11 @@ namespace LibraryData.Migrations
 
                     b.Property<DateTime>("DateOfBirth");
 
-                    b.Property<string>("FirstName");
+                    b.Property<int>("FirstName");
 
                     b.Property<int?>("HomeLibraryBranchId");
 
-                    b.Property<string>("LastName");
+                    b.Property<int>("LastName");
 
                     b.Property<int?>("LibraryCardId");
 

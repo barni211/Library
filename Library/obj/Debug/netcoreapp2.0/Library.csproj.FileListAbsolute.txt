@@ -11,3 +11,5 @@ C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\Library\bin\Debug\
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\Library\bin\Debug\netcoreapp2.0\LibraryData.pdb
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\Library\obj\Debug\netcoreapp2.0\Library.dll
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\Library\obj\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\Library\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\Library\bin\Debug\netcoreapp2.0\LibraryServices.pdb
