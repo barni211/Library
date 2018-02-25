@@ -1,9 +1,9 @@
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
-C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb
